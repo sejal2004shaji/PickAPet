@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sejal Shaji</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sejal2004shaji&label=Profile%20views&color=0e75b6&style=flat" alt="sejal2004shaji" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sejal2004shaji" alt="sejal2004shaji" /></a> </p>
-
 - 👯 I’m looking to collaborate on **Softwrae Developers**
 
 - 💬 Ask me about **Web Development**
