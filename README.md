@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sejal Shaji</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 👯 I’m looking to collaborate on **Softwrae Developers**
+- 👯 I’m looking to collaborate on **Software Developers**
 
 - 💬 Ask me about **Web Development**
 
